@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API = axios.create({ baseURL: 'http://localhost:5000/api' });
+const API = axios.create({ baseURL: 'https://interview-dashboard-uzp3.onrender.com' });
 
 // Panelist
 export const createPanelistAvailability = (data) => API.post('/panelists/availability', data);
