@@ -1,4 +1,4 @@
-# Interview Scheduling & Panel Availability Dashboard
+# Interview_Dashboar
 
 A full-stack application for managing interview scheduling, panelist and candidate availability, matching common slots, and tracking interview statuses.
 
