@@ -1,7 +1,7 @@
 # Interview_Dashboar
 
 A full-stack application for managing interview scheduling, panelist and candidate availability, matching common slots, and tracking interview statuses.
-
+![image alt](https://github.com/jaiprakash323/Interview_Dashboard/blob/9b6be9e2a41b77ba98c04f51d8b2b4fdeee786e8/Screenshot%20(69).png)
 ## Features
 
 - **Panelist Availability**: Panelists can submit their available time slots with interview type and daily limits
