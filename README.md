@@ -1,4 +1,4 @@
-# Interview_Dashboar
+# Interview_Platform
 
 A full-stack application for managing interview scheduling, panelist and candidate availability, matching common slots, and tracking interview statuses.
 ![image alt](https://github.com/jaiprakash323/Interview_Dashboard/blob/9b6be9e2a41b77ba98c04f51d8b2b4fdeee786e8/Screenshot%20(69).png)
