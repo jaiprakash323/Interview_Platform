@@ -32,3 +32,10 @@ A full-stack application for managing interview scheduling, panelist and candida
 cd backend
 npm install
 npm start
+
+### Frontend Setup
+
+```bash
+cd frontend
+npm install
+npm start
