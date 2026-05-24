@@ -25,17 +25,12 @@ A full-stack application for managing interview scheduling, panelist and candida
 ### Prerequisites
 - Node.js (v14 or higher)
 - npm or yarn
-
+  
+### Frontend Setup
+     and 
 ### Backend Setup
 
 ```bash
 cd backend
-npm install
-npm start
-
-### Frontend Setup
-
-```bash
-cd frontend
 npm install
 npm start
