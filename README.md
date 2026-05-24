@@ -27,7 +27,9 @@ A full-stack application for managing interview scheduling, panelist and candida
 - npm or yarn
   
 ### Frontend Setup
-     and 
+cd frontend
+npm install
+npm start
 ### Backend Setup
 
 ```bash
